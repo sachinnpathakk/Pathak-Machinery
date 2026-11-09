@@ -1,0 +1,20 @@
+{
+  "name": "pathak-machinery",
+  "version": "1.0.0",
+  "description": "पाठक कृषि एण्ड मेसिनरी स्टोर्स — खेतीका लागि उपयोगी कृषि औजार, मेसिनरी, पार्टपुर्जा र मर्मत सहयोग।",
+  "private": true,
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build step required for static HTML'"
+  },
+  "keywords": [
+    "agriculture",
+    "machinery",
+    "nepal"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
